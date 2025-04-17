@@ -1,0 +1,60 @@
+.crt-overlay {
+    height: 100%;
+    width: 100%;
+  background: linear-gradient(to top, #000000, #000000, #333333, #333333);
+  background-size: cover;
+  background-size: 100% 3px;
+  opacity: 40%;
+  position: absolute;
+  z-index: 10;
+  pointer-events: none;
+}
+body {
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    
+    margin:0;
+}
+.content {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.crt-tv {
+    background-image: url('/assets/AdobeStock_1220295319.png');
+    background-size: cover;
+    height:100%;
+    position: fixed;
+    width: 100%;
+    z-index: 11;
+}
+nav ul {
+    margin:0;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+nav ul li {
+    list-style: none;
+}
+nav ul li a {
+    color: white ;
+    font-size: 18px;
+}
+nav {
+    background-color: rgb(0, 255, 13);
+    padding-top:48px;
+    padding-bottom: 24px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.logo {
+    margin-left:5%;
+}
+main {
+    height:200vh;
+}
