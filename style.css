@@ -29,6 +29,7 @@ body {
     position: fixed;
     width: 100%;
     z-index: 11;
+    pointer-events: none;
 }
 nav ul {
     margin:0;
