@@ -1,0 +1,54 @@
+{
+    "game_projects": [
+        {
+        "name": "Star Scholars",
+        "teaser": "A Video Game for Change",
+        "photo_type": "image",
+        "photo_url": "https://static.wixstatic.com/media/108abe_3d33047b137e470c90350a21a97a67d9~mv2.jpg/v1/fill/w_600,h_452,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image_edited.jpg",
+        "description": "My current project. A game for The Dyslexia Institute of Indiana to help children recently diagnosed with dyslexia build confidence in themselves. <br /> I am the Lead Writer, Lead Game Designer, and Voice Over Director. <br /> This project is one of my favorites so far, as the cause is something that I think is so powerful, and the output so far has been outstanding. More updates will come on this title, so stay tuned!",
+        "button_link": "https://eef575b6-df7c-4230-8ac8-7abf9e192e1c.filesusr.com/ugd/108abe_16d5e763bcd3445f90788562862f926b.pdf",
+        "button_text": "Read the script"
+        },
+        {
+        "name": "Ranger & Rogers Radar Rescue",
+        "teaser": "An Edutainment Game",
+        "photo_type": "video",
+        "video_url": "https://www.youtube.com/embed/5rJ-KrrVk5o",
+        "description": "My biggest project yet, where I lead the Writing and Game Design Team as well as the Voice-Overs on an edutainment game made for the NSA Crane Base. I worked with a team of two others to craft witty dialogue, an engaging world, and fun gameplay mechanics for the player to enjoy. I also cast, directed, and performed voice-overs for the game, giving each character life. <br /> The project took about 4 months and had a playable demo at Indy Pop Con.",
+        "button_link": "https://in-info-web4.luddy.indianapolis.iu.edu/~trshelto/crane/#home",
+        "button_text": "Learn more"
+    },
+    {
+        "name": "The Customer is ALWAYS Right!",
+        "teaser": "A Video Game",
+        "photo_type": "image",
+        "photo_url": "https://static.wixstatic.com/media/108abe_9e7a14e02b814a5f91293453e96e4e43~mv2.webp/v1/fill/w_565,h_466,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/titleBG.webp",
+        "description": "I am the lead writer and game designer for a game titled The Customer is Always Right. In this game you play as a human in an alien-infested space diner, taking orders and serving food. To serve your customers, you must battle monsters that look suspiciously like everyday food items. Once found and beat, take the monsters and turn them into a delicious meal!",
+        "button_link": "https://sparta13372.itch.io/the-customer-is-always-right",
+        "button_text": "Play the game"
+
+    }
+       
+    ],
+    "writing_projects": [
+        {
+           "name": "20 Mile Letter",
+           "teaser": "A Screenplay",
+           "photo_type": "image",
+           "photo_url": "https://static.wixstatic.com/media/108abe_1a5fe0fe02d2401ea7ed9bf5f103a14f~mv2.png/v1/fill/w_860,h_509,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/20mileletter.png",
+           "description": "A short screenplay depicting a young man during wartime who finds himself delivering a letter that may very well end the war. To deliver this letter, he must cross 20 miles from an abandoned bunker with no one to guide him. While he travels, he experiences hallucinations brought on by past trauma. The story touches on PTSD, the effects of war on those back home, and the scrutiny of one's own psyche.",
+           "button_link": "https://eef575b6-df7c-4230-8ac8-7abf9e192e1c.filesusr.com/ugd/108abe_261014a851604b2e93761d2f23220b50.pdf",
+            "button_text": "Read the screenplay"
+        },
+        {
+            "name": "Trigger",
+           "teaser": "A Script",
+           "photo_type": "image",
+           "photo_url": "https://static.wixstatic.com/media/108abe_53b42541feae4cd9beaa67c0510f0d20~mv2.png/v1/fill/w_811,h_480,al_c,q_90,enc_avif,quality_auto/trigger.png",
+           "description": "A script for a play that I cowrote and performed. This play tells 2 stories, both with the theme of triggering events that can cause strife. One story, written by me, tells the story of a young woman whose past trauma has started giving her panic attacks well after she believes that she is over the event. The second story tells the tale of a couple struggling in their relationship after a homophobic attack on themselves.",
+           "button_link": "https://eef575b6-df7c-4230-8ac8-7abf9e192e1c.filesusr.com/ugd/108abe_41b4a50199d047ec902a2f7de9ea117f.pdf",
+        "button_text": "Read the script"
+        }
+    ]
+
+}
