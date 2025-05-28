@@ -157,7 +157,7 @@ nav {
 a {
     text-decoration: none;
     transition-duration: 0.5s;
-    font-size: 3vw;
+    font-size: 3rem;
 }
 a:hover {
     color: #00ff00;
@@ -405,11 +405,18 @@ float: right;
 }
 .contact-row a {
     margin-left:20px;
+    word-break: break-all;
 }
+
 .contact h2 {
     margin-bottom:32px;
 }
 @media screen and (max-width:1200px) {
+    nav {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
       .dialog-content {
         width: 80%;
         display: flex;
@@ -452,5 +459,13 @@ width: 100%;
     width: 80% !important;
     flex-direction: column;
    }
+   
+.contact-row {
+    display: flex;
+flex-direction: column;
+
+justify-content: center;
+align-items: center;
+}
   
 }
