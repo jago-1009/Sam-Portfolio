@@ -295,8 +295,7 @@ main > * {
     display: flex;
     width: 85%;
     margin-top: 10vw;
-    margin-left: 5vw;
-    margin-right: 5vw;
+ 
 }
 .projects {
     justify-content: center;
